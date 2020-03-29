@@ -2,9 +2,9 @@
 
 Follow all Covid-19 cases, new cases, deaths and new deaths around the world quickly with this lightweight and updated app.
 
-## Download in Google Play
+## Google Play
 
-This project is a starting point for a Flutter application.
+[Download the App (Android version).](https://play.google.com/store/apps/developer?id=Tiago+Meurer)
 
 A few resources to get you started if this is your first Flutter project:
 
