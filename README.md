@@ -6,9 +6,9 @@ We'll get through this! <3
 
 ## Google Play
 
-![scr-shot-1](blob:https://imgur.com/aae86ee8-64a5-4a0e-a64d-7bdd5b9c9e68)
+![scr-shot-1](https://imgur.com/aae86ee8-64a5-4a0e-a64d-7bdd5b9c9e68)
 
-![scr-shot-2](blob:https://imgur.com/1016b330-62be-45b2-9f5a-ff1b32d5643a)
+![scr-shot-2](https://imgur.com/1016b330-62be-45b2-9f5a-ff1b32d5643a)
 
 [Download the App (Android version).](https://play.google.com/store/apps/developer?id=Tiago+Meurer)
 
