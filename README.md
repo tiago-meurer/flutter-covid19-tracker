@@ -1,8 +1,8 @@
-# coronavirus_monitor
+# Coronavirus Tracker
 
-A new Flutter project.
+Follow all Covid-19 cases, new cases, deaths and new deaths around the world quickly with this lightweight and updated app.
 
-## Getting Started
+## Download in Google Play
 
 This project is a starting point for a Flutter application.
 
